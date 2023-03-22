@@ -1,0 +1,13 @@
+# Flutter projects
+**/build/
+**/ios/Pods/
+**/android/.gradle/
+**/android/.idea/
+.vscode/
+
+# Firebase configuration files
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Mac OS
+.DS_Store
